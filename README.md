@@ -1,5 +1,5 @@
 
-# TypeScript - Node - Starter
+# TypeScript Node Starter
 Boilerplate for typical express backend application with typescript and standard code quality tooling configured.
 
 ## Need this goloble install
